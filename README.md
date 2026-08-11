@@ -4,6 +4,8 @@ A real-time overlay for **Spirit Vale** that tracks gold, experience, and farmin
 
 ![GoldExpOverlay Screenshot](screenshot.png)
 
+![GoldExpOverlay Screenshot 2](screenshot2.png)
+
 ---
 
 ## Download
@@ -95,6 +97,8 @@ For questions, issues, or access requests, join our Discord:
 Um overlay em tempo real para **Spirit Vale** que rastreia gold, experiencia e estatisticas de farm — tudo em uma janela compacta, sempre visivel.
 
 ![GoldExpOverlay Screenshot](screenshot.png)
+
+![GoldExpOverlay Screenshot 2](screenshot2.png)
 
 ---
 
