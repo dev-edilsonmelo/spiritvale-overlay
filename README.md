@@ -6,7 +6,7 @@ A real-time overlay for **Spirit Vale** that tracks gold, experience, and farmin
 
 ## Download
 
-[**Download GoldExpOverlay.exe**](https://github.com/dev-edilsonmelo/spiritvale-overlay/raw/main/GoldExpOverlay.exe)
+[**Download GoldExpOverlay.exe**](https://github.com/dev-edilsonmelo/spiritvale-overlay/releases/latest/download/GoldExpOverlay.exe)
 
 ---
 
@@ -96,7 +96,7 @@ Um overlay em tempo real para **Spirit Vale** que rastreia gold, experiencia e e
 
 ## Download
 
-[**Baixar GoldExpOverlay.exe**](https://github.com/dev-edilsonmelo/spiritvale-overlay/raw/main/GoldExpOverlay.exe)
+[**Baixar GoldExpOverlay.exe**](https://github.com/dev-edilsonmelo/spiritvale-overlay/releases/latest/download/GoldExpOverlay.exe)
 
 ---
 
